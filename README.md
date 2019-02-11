@@ -1,2 +1,2 @@
 # PANDAS
-# Heros of Pylomi
+# Heroes of Pylomi
